@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/redox_mikael/",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/mikael-ruffieux",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/mikael-ruffieux/",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}

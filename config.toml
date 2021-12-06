@@ -1,0 +1,27 @@
+baseURL = "/"
+languageCode = "fr-ch"
+title = "Le blog de Mikael"
+themesDir = "themes"
+theme = "hugo-winston-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+paginate = 3
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  google_analytics_id = ""
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = false
+  showPostsOnHomepage = true
+  addFrame = true
+  addDot = true
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
