@@ -5,11 +5,12 @@ description: 'Aperçu'
 image: images/cctv.jpeg
 draft: true
 categories:
-- VR
+- XR / VR
 tags: 
-- suisse
-- musées
-- test
+- VR
+- Unreal Engine
+- Suisse
+- Musées
 ---
 
 https://www.geneve.ch/fr/actualites/plongez-realite-virtuelle-dispositif-geneve-1850

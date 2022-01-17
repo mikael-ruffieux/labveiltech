@@ -5,10 +5,12 @@ description: 'Aperçu'
 image: images/cctv.jpeg
 draft: true
 categories:
-- XR
+- XR / VR
 tags: 
 - ArchViz
 - Unreal Engine
+- Photogrammétrie
+- Environnements
 ---
 https://www.unrealengine.com/en-US/spotlights/renovation-for-the-nation-how-hok-is-helping-preserve-a-national-icon-on-canada-s-parliament-hill
 
