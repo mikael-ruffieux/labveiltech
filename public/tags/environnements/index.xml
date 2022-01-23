@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environnements on Le blog de Mikael</title>
+    <link>https://mikael-ruffieux.github.io/labveiltech/tags/environnements/</link>
+    <description>Recent content in Environnements on Le blog de Mikael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Mon, 17 Jan 2022 12:15:50 +0100</lastBuildDate><atom:link href="https://mikael-ruffieux.github.io/labveiltech/tags/environnements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🐟 Fishermans Shack : mon apprentissage de Blender</title>
+      <link>https://mikael-ruffieux.github.io/labveiltech/posts/fishermans-shack/</link>
+      <pubDate>Mon, 17 Jan 2022 12:15:50 +0100</pubDate>
+      
+      <guid>https://mikael-ruffieux.github.io/labveiltech/posts/fishermans-shack/</guid>
+      <description>https://www.youtube.com/watch?v=Jmir2bDpZA4&amp;amp;list=PLn3ukorJv4vsIOjZoMToZusH2uOyjCu6G</description>
+    </item>
+    
+    <item>
+      <title>🖼️ Unreal Engine Renovation for Nation</title>
+      <link>https://mikael-ruffieux.github.io/labveiltech/posts/unreal-engine-renovation-for-nation/</link>
+      <pubDate>Mon, 15 Nov 2021 14:47:52 +0100</pubDate>
+      
+      <guid>https://mikael-ruffieux.github.io/labveiltech/posts/unreal-engine-renovation-for-nation/</guid>
+      <description>https://www.unrealengine.com/en-US/spotlights/renovation-for-the-nation-how-hok-is-helping-preserve-a-national-icon-on-canada-s-parliament-hill
+Projet de rénovation d’un bâtiment historique canadien ; Avant de commencer les travaux, simuler les rénovations en modèles numériques haute fidélité ; Créer des visuelles “taille réelle” en VR pour une meilleure vision des éléments à changer ; Liste des programmes et outils utilisés, description du workflow : caméras / scanner de photogrammétrie, RealityCapture, Revit &amp;amp; Houdini “The greatest benefit in deploying real-time solutions is that they are real time!</description>
+    </item>
+    
+  </channel>
+</rss>
