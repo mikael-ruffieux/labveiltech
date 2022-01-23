@@ -1,5 +1,5 @@
 ---
-title: Titre 1
-description: Bienvenue.
+title: Veille technologique
+description: Bienvenue
 ---
 Description / phrase d'accueil

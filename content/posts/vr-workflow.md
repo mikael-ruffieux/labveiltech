@@ -1,5 +1,5 @@
 ---
-title: "VR Workflow : par où commencer ?"
+title: "👨🏻‍💻 VR Workflow : par où commencer"
 date: 2022-01-17T10:31:19+01:00
 description: "Il existe mille et une façons de créer une expérience VR, en utilisant mille et un outils pour créer une expérience VR. Parmis cette jungle d'informations et de technologies, par où commencer ?"
 image: images/vr-workflow/workflow.png
@@ -36,45 +36,51 @@ Concernant le *hardware*, le matériel à avoir pour commencer à développer en
 
 La première option, la moins chère, était celle du Google Cardboard (~12$), une option qui permet d'utiliser son smartphone comme support, avec des lentilles qui permettent de simuler cette vision stéréo. D'autres casques, comme le Google Daydream (79$), ou l'Oculus Gear VR (99$), permettent d'attendre le même résultat, avec un équipement un peu plus robuste qu'une monture en carton.
 
-Avantages :
+**Avantages** :
 + Prix abordable
 + Tout le monde a un smartphone
 + Facile à mettre en place
 
-Désavantages :
+**Désavantages** :
 - Matériel peu performant
 - On sacrifie le confort pour des expériences VR plus longues
 
+![Google Cardboard](/labveiltech/images/vr-workflow/cardboard.jpg)
+
 #### L'option médiane
 
-Si on veut se lancer un peu plus sérieusement dans la VR, que ce soit du côté consommateur ou développeur, il recommandait l'Oculus Quest 2 (399$), qui est un casque indépendant, et qui n'a donc pas besoin d'être connecté à un ordinateur pour faire le rendu VR.
+Si on veut se lancer un peu plus sérieusement dans la VR, que ce soit du côté consommateur ou développeur, il recommandait l'Oculus *(remplacé aujourd'hui par 'Meta')* Quest 2 (399$), qui est un casque indépendant, et qui n'a donc pas besoin d'être connecté à un ordinateur pour faire le rendu VR.
 
 Il s'agit d'ailleurs du casque que je possède.
 
-Avantages :
+**Avantages** :
 + Haute qualité d'image
 + Portabilité
 + Compatibilité avec les dernières technologies VR
 + Rapport qualité-prix excellent
 + Peut être connecté à un ordinateur par câble ou via WiFi pour des expériences plus conséquentes
 
-Désavantages :
+**Désavantages** :
 - Peut être un gros investissement "juste pour essayer"
 - Manque de puissance pour les expériences VR lourdes
+
+![Oculus (Meta) Quest 2](/labveiltech/images/vr-workflow/quest2.jpg)
 
 #### L'option premium
 
 Comme options haut de gamme, Justin mentionnait l'Oculus Rift S (799$), ou le HTC Vive (899$). Mais vu que sa vidéo s'adressait plutôt aux futurs développeurs VR, il ne s'est pas trop attardé sur ces casques.
 
-Avantages :
+**Avantages** :
 + Excellente qualité visuelle
 + Très bon tracking
 + Connexion directe à l'ordinateur (très utile pour le développement)
 
-Désavantages :
+**Désavantages** :
 - Onéreux
 - Demande un ordinateur performant pour les rendus
 - N'est pas transportable
+
+![HTC Vive](/labveiltech/images/vr-workflow/htcvive.jpg)
 
 ### Quels programmes utiliser ?
 
@@ -86,6 +92,8 @@ Unreal Engine (UE) est principalement utilisé pour les jeux photoréalistes, qu
 
 Pour le développement, UE propose un environnement en C++, ou en utilisant un système de *Nodes*, qui s'apparentent à un développement en blocs.
 
+![Unreal Engine](/labveiltech/images/vr-workflow/unreal.webp)
+
 #### Unity
 
 Unity s'adresse plutôt aux studios indépendants, et utilise C# comme langage de programmation.
@@ -93,6 +101,8 @@ Unity s'adresse plutôt aux studios indépendants, et utilise C# comme langage d
 Initialement, j'avais porté mon choix sur Unreal Engine, car j'avais déjà eu l'occasion de l'utiliser pour des projets "bac à sable", et la programmation en blocs m'évitait de devoir apprendre un nouveau langage.
 
 Mais après avoir discuté avec [Christophe Merkle](https://christophemerkle.com/), alumni de Comem+, et VR Specialist indépendant, il me recommandait plutôt de choisir Unity. Étant donné que je connaissais déjà Java, la transition à C# ne demanderait que peu d'effort, et Unity était plus adapté, notamment au niveau de l'optimisation pour des petits projets. Il mentionnait d'ailleurs que le système de *Nodes* de UE était pratique pour créer rapidement des algorithmes simples, mais devenait vite limitant pour des interactions plus complexes.
+
+![Unity](/labveiltech/images/vr-workflow/unity.jpeg)
 
 ### Quelles compétences sont à développer ?
 
@@ -152,7 +162,17 @@ Pour découvrir un des projets réalisés, rendez-vous sur l'article : [Fisherma
 
 
 
-### Sources
+### Sources images
 
 Bannière : https://blog.trello.com/hs-fs/2018-04-24_WhatEvenIsAWorkflowAndWhyDoYouNeedIt_r01.png
+
+Google Cardboard : https://de.wikipedia.org/wiki/Google_Cardboard
+
+Meta Quest 2 : https://80.lv/articles/oculus-quest-2-updated/
+
+HTC Vive : https://www.lesnumeriques.com/casque-realite-virtuelle/htc-vive-p30731.html
+
+Unreal Engine : https://docs.unrealengine.com/4.27/en-US/
+
+Unity : https://www.linuxadictos.com/en/the-unity-game-engine-already-has-a-build-for-linux.html
 
