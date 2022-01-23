@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3D Design on Le blog de Mikael</title>
-    <link>https://mikael-ruffieux.github.io/categories/3d-design/</link>
+    <link>https://mikael-ruffieux.github.io/labveiltech/categories/3d-design/</link>
     <description>Recent content in 3D Design on Le blog de Mikael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ch</language>
-    <lastBuildDate>Mon, 17 Jan 2022 12:15:50 +0100</lastBuildDate><atom:link href="https://mikael-ruffieux.github.io/categories/3d-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jan 2022 12:15:50 +0100</lastBuildDate><atom:link href="https://mikael-ruffieux.github.io/labveiltech/categories/3d-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🐟 Fishermans Shack : mon apprentissage de Blender</title>
-      <link>https://mikael-ruffieux.github.io/posts/fishermans-shack/</link>
+      <link>https://mikael-ruffieux.github.io/labveiltech/posts/fishermans-shack/</link>
       <pubDate>Mon, 17 Jan 2022 12:15:50 +0100</pubDate>
       
-      <guid>https://mikael-ruffieux.github.io/posts/fishermans-shack/</guid>
+      <guid>https://mikael-ruffieux.github.io/labveiltech/posts/fishermans-shack/</guid>
       <description>https://www.youtube.com/watch?v=Jmir2bDpZA4&amp;amp;list=PLn3ukorJv4vsIOjZoMToZusH2uOyjCu6G</description>
     </item>
     
