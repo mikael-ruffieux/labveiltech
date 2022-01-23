@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ArchViz on Le blog de Mikael</title>
-    <link>https://mikael-ruffieux.github.io/labveiltech/tags/archviz/</link>
+    <link>https://mikael-ruffieux.github.io/tags/archviz/</link>
     <description>Recent content in ArchViz on Le blog de Mikael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ch</language>
-    <lastBuildDate>Mon, 15 Nov 2021 14:47:52 +0100</lastBuildDate><atom:link href="https://mikael-ruffieux.github.io/labveiltech/tags/archviz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Nov 2021 14:47:52 +0100</lastBuildDate><atom:link href="https://mikael-ruffieux.github.io/tags/archviz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🖼️ Unreal Engine Renovation for Nation</title>
-      <link>https://mikael-ruffieux.github.io/labveiltech/posts/unreal-engine-renovation-for-nation/</link>
+      <link>https://mikael-ruffieux.github.io/posts/unreal-engine-renovation-for-nation/</link>
       <pubDate>Mon, 15 Nov 2021 14:47:52 +0100</pubDate>
       
-      <guid>https://mikael-ruffieux.github.io/labveiltech/posts/unreal-engine-renovation-for-nation/</guid>
+      <guid>https://mikael-ruffieux.github.io/posts/unreal-engine-renovation-for-nation/</guid>
       <description>https://www.unrealengine.com/en-US/spotlights/renovation-for-the-nation-how-hok-is-helping-preserve-a-national-icon-on-canada-s-parliament-hill
 Projet de rénovation d’un bâtiment historique canadien ; Avant de commencer les travaux, simuler les rénovations en modèles numériques haute fidélité ; Créer des visuelles “taille réelle” en VR pour une meilleure vision des éléments à changer ; Liste des programmes et outils utilisés, description du workflow : caméras / scanner de photogrammétrie, RealityCapture, Revit &amp;amp; Houdini “The greatest benefit in deploying real-time solutions is that they are real time!</description>
     </item>
