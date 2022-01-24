@@ -1,32 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Oculus on Le blog de Mikael</title>
-    <link>https://mikael-ruffieux.github.io/tags/oculus/</link>
-    <description>Recent content in Oculus on Le blog de Mikael</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-ch</language>
-    <lastBuildDate>Mon, 17 Jan 2022 10:31:19 +0100</lastBuildDate><atom:link href="https://mikael-ruffieux.github.io/tags/oculus/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>👨🏻‍💻 VR Workflow : par où commencer</title>
-      <link>https://mikael-ruffieux.github.io/posts/vr-workflow/</link>
-      <pubDate>Mon, 17 Jan 2022 10:31:19 +0100</pubDate>
-      
-      <guid>https://mikael-ruffieux.github.io/posts/vr-workflow/</guid>
-      <description>Avec toutes ces recherches sur le sujet de la VR, de la XR, et de son utilisation sur le marché actuel, j&amp;rsquo;avais l&amp;rsquo;impression que toutes les routes menaient à Rome. Il existe mille et une façons de créer une expérience VR, en utilisant mille et un outils, payant ou non, pour arriver à la fin au Graal que je cherche à créer : une expérience VR.
-La question que je me posais était la suivante : à quoi ressemble le workflow d&amp;rsquo;un développeur VR ?</description>
-    </item>
-    
-    <item>
-      <title>👾 Connect 2021 - les annonces de Facebook</title>
-      <link>https://mikael-ruffieux.github.io/posts/connect-2021/</link>
-      <pubDate>Mon, 15 Nov 2021 14:47:09 +0100</pubDate>
-      
-      <guid>https://mikael-ruffieux.github.io/posts/connect-2021/</guid>
-      <description>N&amp;rsquo;ayant pas suivi la conférence en direct, j&amp;rsquo;ai donc suivi le résumé très complet de cette dernière sur le blog UploadVR, blog qui oeuvre pour la démocratisation des technologies XR.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Oculus on Le blog de Mikael</title><link>https://labveiltech.redoxdigital.ch/tags/oculus/</link><description>Recent content in Oculus on Le blog de Mikael</description><generator>Hugo -- gohugo.io</generator><language>fr-ch</language><lastBuildDate>Mon, 17 Jan 2022 10:31:19 +0100</lastBuildDate><atom:link href="https://labveiltech.redoxdigital.ch/tags/oculus/index.xml" rel="self" type="application/rss+xml"/><item><title>👨🏻‍💻 VR Workflow : par où commencer</title><link>https://labveiltech.redoxdigital.ch/posts/vr-workflow/</link><pubDate>Mon, 17 Jan 2022 10:31:19 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/posts/vr-workflow/</guid><description>Avec toutes ces recherches sur le sujet de la VR, de la XR, et de son utilisation sur le marché actuel, j&amp;rsquo;avais l&amp;rsquo;impression que toutes les routes menaient à Rome. Il existe mille et une façons de créer une expérience VR, en utilisant mille et un outils, payant ou non, pour arriver à la fin au Graal que je cherche à créer : une expérience VR.
+La question que je me posais était la suivante : à quoi ressemble le workflow d&amp;rsquo;un développeur VR ?</description></item><item><title>👾 Connect 2021 - les annonces de Facebook</title><link>https://labveiltech.redoxdigital.ch/posts/connect-2021/</link><pubDate>Mon, 15 Nov 2021 14:47:09 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/posts/connect-2021/</guid><description>N&amp;rsquo;ayant pas suivi la conférence en direct, j&amp;rsquo;ai donc suivi le résumé très complet de cette dernière sur le blog UploadVR, blog qui oeuvre pour la démocratisation des technologies XR.
 Facebook devient Meta Bien entendu, le premier élément de la conférence était le rebranding du groupe Facebook, qui devenait le groupe Meta, afin de séparer le réseau social des autres activitées de l&amp;rsquo;entreprise.
-Si Facebook, le réseau social, garde son nom, l&amp;rsquo;entreprise Oculus devient Meta Quest, et donne un premier aperçu de la vision de l&amp;rsquo;entreprise pour ces prochaines années.</description>
-    </item>
-    
-  </channel>
-</rss>
+Si Facebook, le réseau social, garde son nom, l&amp;rsquo;entreprise Oculus devient Meta Quest, et donne un premier aperçu de la vision de l&amp;rsquo;entreprise pour ces prochaines années.</description></item></channel></rss>
