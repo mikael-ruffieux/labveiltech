@@ -1,4 +1,4 @@
-baseURL = "https://mikael-ruffieux.github.io/"
+baseURL = "https://labveiltech.redoxdigital.ch/"
 languageCode = "fr-ch"
 title = "Le blog de Mikael"
 themesDir = "themes"
@@ -25,3 +25,16 @@ paginate = 5
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+
+[menu]
+  [[menu.main]]
+    identifier = 'categories'
+    name = 'Catégories'
+    url = '/categories/'
+    weight = 1
+
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Tags'
+    url = '/tags/'
+    weight = 2

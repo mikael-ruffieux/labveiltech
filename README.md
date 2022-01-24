@@ -18,7 +18,6 @@
 ### Tags
 - VR
 - AR
-- Meta
 - Oculus
 - Gaming
 - ArchViz
