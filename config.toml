@@ -8,6 +8,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 paginate = 5
+canonifyURLs = true
 
 [module]
   [module.hugoVersion]
