@@ -3,7 +3,7 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 description: 'Aperçu'
 image: images/cctv.jpeg
-draft: true
+draft: false
 categories:
 - VR
 tags: 

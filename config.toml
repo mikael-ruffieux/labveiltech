@@ -1,4 +1,4 @@
-baseURL = "https://mikael-ruffieux.github.io/labveiltech"
+baseURL = "https://mikael-ruffieux.github.io/"
 languageCode = "fr-ch"
 title = "Le blog de Mikael"
 themesDir = "themes"
