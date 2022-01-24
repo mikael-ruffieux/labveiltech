@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photogrammétrie on Le blog de Mikael</title><link>https://labveiltech.redoxdigital.ch/tags/photogramm%C3%A9trie/</link><description>Recent content in Photogrammétrie on Le blog de Mikael</description><generator>Hugo -- gohugo.io</generator><language>fr-ch</language><lastBuildDate>Mon, 15 Nov 2021 14:47:52 +0100</lastBuildDate><atom:link href="https://labveiltech.redoxdigital.ch/tags/photogramm%C3%A9trie/index.xml" rel="self" type="application/rss+xml"/><item><title>🖼️ Unreal Engine Renovation for Nation</title><link>https://labveiltech.redoxdigital.ch/posts/unreal-engine-renovation-for-nation/</link><pubDate>Mon, 15 Nov 2021 14:47:52 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/posts/unreal-engine-renovation-for-nation/</guid><description>Unreal Engine (UE) est un moteur de rendu utilisé principalement dans le domaine des jeux-vidéos (Fortnite, Sea of Thieves, Batman: Arkham, &amp;hellip;).
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photogrammétrie on Le blog de Mikael</title>
+    <link>https://labveiltech.redoxdigital.ch/tags/photogramm%C3%A9trie/</link>
+    <description>Recent content in Photogrammétrie on Le blog de Mikael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Mon, 15 Nov 2021 14:47:52 +0100</lastBuildDate><atom:link href="https://labveiltech.redoxdigital.ch/tags/photogramm%C3%A9trie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🖼️ Unreal Engine Renovation for Nation</title>
+      <link>https://labveiltech.redoxdigital.ch/posts/unreal-engine-renovation-for-nation/</link>
+      <pubDate>Mon, 15 Nov 2021 14:47:52 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/posts/unreal-engine-renovation-for-nation/</guid>
+      <description>Unreal Engine (UE) est un moteur de rendu utilisé principalement dans le domaine des jeux-vidéos (Fortnite, Sea of Thieves, Batman: Arkham, &amp;hellip;).
 Depuis quelques années, UE se diversifie, et s&amp;rsquo;attaque notamment au marché de la visualisation architecturale, ou ArchViz pour les intimes.
 Plongeons donc ensemble dans un article retraçant leur collaboration avec HOK, une entreprise américaine active dans l&amp;rsquo;architecture et l&amp;rsquo;ingénierie, pour un projet de conservation historique.
-Un héritage virtuel Au centre d&amp;rsquo;Ottawa se trouve l&amp;rsquo;Édifice du Centre (Centre Block), bâtiment habritant le Sénat canadien, la Chambre des communes du Canada ainsi que divers bureaux de parlementaires.</description></item></channel></rss>
+Un héritage virtuel Au centre d&amp;rsquo;Ottawa se trouve l&amp;rsquo;Édifice du Centre (Centre Block), bâtiment habritant le Sénat canadien, la Chambre des communes du Canada ainsi que divers bureaux de parlementaires.</description>
+    </item>
+    
+  </channel>
+</rss>
