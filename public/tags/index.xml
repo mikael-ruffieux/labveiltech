@@ -1,1 +1,137 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Le blog de Mikael</title><link>https://labveiltech.redoxdigital.ch/tags/</link><description>Recent content in Tags on Le blog de Mikael</description><generator>Hugo -- gohugo.io</generator><language>fr-ch</language><lastBuildDate>Mon, 17 Jan 2022 12:15:50 +0100</lastBuildDate><atom:link href="https://labveiltech.redoxdigital.ch/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Blender</title><link>https://labveiltech.redoxdigital.ch/tags/blender/</link><pubDate>Mon, 17 Jan 2022 12:15:50 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/blender/</guid><description/></item><item><title>Environnements</title><link>https://labveiltech.redoxdigital.ch/tags/environnements/</link><pubDate>Mon, 17 Jan 2022 12:15:50 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/environnements/</guid><description/></item><item><title>Texturing</title><link>https://labveiltech.redoxdigital.ch/tags/texturing/</link><pubDate>Mon, 17 Jan 2022 12:15:50 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/texturing/</guid><description/></item><item><title>Tutoriel</title><link>https://labveiltech.redoxdigital.ch/tags/tutoriel/</link><pubDate>Mon, 17 Jan 2022 12:15:50 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/tutoriel/</guid><description/></item><item><title>Oculus</title><link>https://labveiltech.redoxdigital.ch/tags/oculus/</link><pubDate>Mon, 17 Jan 2022 10:31:19 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/oculus/</guid><description/></item><item><title>Unity</title><link>https://labveiltech.redoxdigital.ch/tags/unity/</link><pubDate>Mon, 17 Jan 2022 10:31:19 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/unity/</guid><description/></item><item><title>Unreal Engine</title><link>https://labveiltech.redoxdigital.ch/tags/unreal-engine/</link><pubDate>Mon, 17 Jan 2022 10:31:19 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/unreal-engine/</guid><description/></item><item><title>VR</title><link>https://labveiltech.redoxdigital.ch/tags/vr/</link><pubDate>Mon, 17 Jan 2022 10:31:19 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/vr/</guid><description/></item><item><title>ArchViz</title><link>https://labveiltech.redoxdigital.ch/tags/archviz/</link><pubDate>Mon, 15 Nov 2021 14:47:52 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/archviz/</guid><description/></item><item><title>Photogrammétrie</title><link>https://labveiltech.redoxdigital.ch/tags/photogramm%C3%A9trie/</link><pubDate>Mon, 15 Nov 2021 14:47:52 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/photogramm%C3%A9trie/</guid><description/></item><item><title>Entreprises</title><link>https://labveiltech.redoxdigital.ch/tags/entreprises/</link><pubDate>Mon, 15 Nov 2021 14:47:09 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/entreprises/</guid><description/></item><item><title>Meta</title><link>https://labveiltech.redoxdigital.ch/tags/meta/</link><pubDate>Mon, 15 Nov 2021 14:47:09 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/meta/</guid><description/></item><item><title>Musées</title><link>https://labveiltech.redoxdigital.ch/tags/mus%C3%A9es/</link><pubDate>Mon, 15 Nov 2021 14:44:25 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/mus%C3%A9es/</guid><description/></item><item><title>Suisse</title><link>https://labveiltech.redoxdigital.ch/tags/suisse/</link><pubDate>Mon, 15 Nov 2021 14:44:25 +0100</pubDate><guid>https://labveiltech.redoxdigital.ch/tags/suisse/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Le blog de Mikael</title>
+    <link>https://labveiltech.redoxdigital.ch/tags/</link>
+    <description>Recent content in Tags on Le blog de Mikael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Mon, 17 Jan 2022 12:15:50 +0100</lastBuildDate><atom:link href="https://labveiltech.redoxdigital.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blender</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/blender/</link>
+      <pubDate>Mon, 17 Jan 2022 12:15:50 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environnements</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/environnements/</link>
+      <pubDate>Mon, 17 Jan 2022 12:15:50 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/environnements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texturing</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/texturing/</link>
+      <pubDate>Mon, 17 Jan 2022 12:15:50 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/texturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutoriel</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/tutoriel/</link>
+      <pubDate>Mon, 17 Jan 2022 12:15:50 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/tutoriel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oculus</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/oculus/</link>
+      <pubDate>Mon, 17 Jan 2022 10:31:19 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/oculus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/unity/</link>
+      <pubDate>Mon, 17 Jan 2022 10:31:19 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unreal Engine</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/unreal-engine/</link>
+      <pubDate>Mon, 17 Jan 2022 10:31:19 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/unreal-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/vr/</link>
+      <pubDate>Mon, 17 Jan 2022 10:31:19 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ArchViz</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/archviz/</link>
+      <pubDate>Mon, 15 Nov 2021 14:47:52 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/archviz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photogrammétrie</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/photogramm%C3%A9trie/</link>
+      <pubDate>Mon, 15 Nov 2021 14:47:52 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/photogramm%C3%A9trie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entreprises</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/entreprises/</link>
+      <pubDate>Mon, 15 Nov 2021 14:47:09 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/entreprises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/meta/</link>
+      <pubDate>Mon, 15 Nov 2021 14:47:09 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musées</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/mus%C3%A9es/</link>
+      <pubDate>Mon, 15 Nov 2021 14:44:25 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/mus%C3%A9es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suisse</title>
+      <link>https://labveiltech.redoxdigital.ch/tags/suisse/</link>
+      <pubDate>Mon, 15 Nov 2021 14:44:25 +0100</pubDate>
+      
+      <guid>https://labveiltech.redoxdigital.ch/tags/suisse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
