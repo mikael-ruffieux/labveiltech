@@ -45,7 +45,7 @@ La première option, la moins chère, était celle du Google Cardboard (~12$), u
 - Matériel peu performant
 - On sacrifie le confort pour des expériences VR plus longues
 
-![Google Cardboard](/labveiltech/images/vr-workflow/cardboard.jpg)
+![Google Cardboard](/images/vr-workflow/cardboard.jpg)
 
 #### L'option médiane
 
@@ -64,7 +64,7 @@ Il s'agit d'ailleurs du casque que je possède.
 - Peut être un gros investissement "juste pour essayer"
 - Manque de puissance pour les expériences VR lourdes
 
-![Oculus (Meta) Quest 2](/labveiltech/images/vr-workflow/quest2.jpg)
+![Oculus (Meta) Quest 2](/images/vr-workflow/quest2.jpg)
 
 #### L'option premium
 
@@ -80,7 +80,7 @@ Comme options haut de gamme, Justin mentionnait l'Oculus Rift S (799$), ou le HT
 - Demande un ordinateur performant pour les rendus
 - N'est pas transportable
 
-![HTC Vive](/labveiltech/images/vr-workflow/htcvive.jpg)
+![HTC Vive](/images/vr-workflow/htcvive.jpg)
 
 ### Quels programmes utiliser ?
 
@@ -92,7 +92,7 @@ Unreal Engine (UE) est principalement utilisé pour les jeux photoréalistes, qu
 
 Pour le développement, UE propose un environnement en C++, ou en utilisant un système de *Nodes*, qui s'apparentent à un développement en blocs.
 
-![Unreal Engine](/labveiltech/images/vr-workflow/unreal.webp)
+![Unreal Engine](/images/vr-workflow/unreal.webp)
 
 #### Unity
 
@@ -102,7 +102,7 @@ Initialement, j'avais porté mon choix sur Unreal Engine, car j'avais déjà eu 
 
 Mais après avoir discuté avec [Christophe Merkle](https://christophemerkle.com/), alumni de Comem+, et VR Specialist indépendant, il me recommandait plutôt de choisir Unity. Étant donné que je connaissais déjà Java, la transition à C# ne demanderait que peu d'effort, et Unity était plus adapté, notamment au niveau de l'optimisation pour des petits projets. Il mentionnait d'ailleurs que le système de *Nodes* de UE était pratique pour créer rapidement des algorithmes simples, mais devenait vite limitant pour des interactions plus complexes.
 
-![Unity](/labveiltech/images/vr-workflow/unity.jpeg)
+![Unity](/images/vr-workflow/unity.jpeg)
 
 ### Quelles compétences sont à développer ?
 
@@ -158,7 +158,7 @@ Après ce visionnage riche en apprentissage, j'ai donc créé une liste de ce qu
 
 Cette liste m'a impressionné, et quelque peu découragé, je dois avouer... Mais j'ai pris mon courage à 2 mains, et j'ai commencer par ce qui me semblait être la première étape de mon apprentissage : l'utilisation de Blender et la modélisation d'objets en 3D.
 
-Pour découvrir un des projets réalisés, rendez-vous sur l'article : [Fisherman's Shack](/labveiltech/posts/fishermans-shack/).
+Pour découvrir un des projets réalisés, rendez-vous sur l'article : [Fisherman's Shack](/posts/fishermans-shack/).
 
 
 

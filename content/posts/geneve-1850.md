@@ -19,7 +19,7 @@ J'ai toujours pensé que la réalité virtuelle pouvait être utilisée pour d'a
 
 Le défi de cette expérience de la Maison Tavel de Genève était de donner vie à une ville de Genève de 1850, en se basant pour les décors sur une maquette de la ville de cette période. Leur motto : "Visiter le passé à l'aide d'outils du futur".
 
-![La maquette de la ville de Genève](/labveiltech/images/geneve/maquette.png)
+![La maquette de la ville de Genève](/images/geneve/maquette.png)
 *La maquette utilisée comme modèle.*
 
 L'expérience se veut audiovisuelle & sensorielle, ce qui est particulier pour une expérience VR.
@@ -28,7 +28,7 @@ Dans la vidéo, ils présentent les différentes difficultées rencontrées lors
 
 Cette expérience muséale se veut à la pointe de la technologie, et mélange technologies VR et interfaces physiques. En effet, en plus d'être plongés dans un univers virtuel, les visiteurs parcourent réellement un environnement spécialement conçu pour cette expérience, avec des composantes physiques faites pour renforcer l'immersion virtuelle. Sont notamment montrés des représentations d'une calèche et d'un panier de ballon, qui permettent de transmettre un cadre, et des retours physiques aux visiteurs.
 
-![La calèche utilisée dans l'expérience](/labveiltech/images/geneve/caleche.png)
+![La calèche utilisée dans l'expérience](/images/geneve/caleche.png)
 *La "calèche" en question.*
 
 Cette expérience est entièrement novatrice en Suisse, et démontre le potentiel qu'a la VR pour le domaine culturel. Malheureusement, cette exposition n'est plus disponible, mais j'espère que ce genre d'expériences a pu ouvrir la voie, et non être un contre-exemple ...
