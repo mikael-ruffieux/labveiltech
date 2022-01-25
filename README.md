@@ -1,8 +1,6 @@
 # Site
 
-[Disponible à cette adresse.](https://labveiltech.redoxdigital.ch/)
-
-[GitHub Page](https://mikael-ruffieux.github.io/labveiltech/)
+Disponible à cette adresse : [GitHub Page](https://mikael-ruffieux.github.io/labveiltech/)
 
 ## Bugs connus
 
@@ -14,7 +12,7 @@ Pour palier à ce problème, j'ai donc décidé de le publier sur mon propre hé
 
 [26.01.2022]
 
-Mise à jour : 
+<ins>Mise à jour</ins> : j'ai pu finalement régler le problème. En effet, en local, pour générer mes pages statiques, j'utilisais la commande `hugo -D`, versus la commande `hugo`, ce qui générait toutes les pages, qu'importe leur statut. Il s'avérait que mes articles avaient tous le paramètre `draft: true`, ce qui empêchait la génération des articles qui avaient encore le statut de brouillon.
 
 ## Commandes
 
