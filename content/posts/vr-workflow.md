@@ -3,7 +3,6 @@ title: "👨🏻‍💻 VR Workflow : par où commencer"
 date: 2022-01-17T10:31:19+01:00
 description: "Il existe mille et une façons de créer une expérience VR, en utilisant mille et un outils pour créer une expérience VR. Parmis cette jungle d'informations et de technologies, par où commencer ?"
 image: images/vr-workflow/workflow.png
-draft: true
 categories:
 - XR / VR
 tags: 

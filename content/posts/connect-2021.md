@@ -3,7 +3,6 @@ title: 👾 Connect 2021 - les annonces de Facebook
 date: 2021-11-15T14:47:09+01:00
 description: La conférence "Connect" est la conférence annuel du groupe Facebook. Cette année, la pièce maîtresse de la conférence était l'introduction du Metaverse.
 image: images/connect/meta.jpg
-draft: true
 categories:
 - XR / VR
 tags: 

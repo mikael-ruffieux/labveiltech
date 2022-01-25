@@ -3,7 +3,6 @@ title: 📜 Genève 1850
 date: 2021-11-15T14:44:25+01:00
 description: "Visiter la ville de Genève au XIXe siècle, c'est possible grâce à la réalité virtuelle !"
 image: images/geneve/banner.png
-draft: true
 categories:
 - XR / VR
 tags: 

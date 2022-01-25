@@ -3,7 +3,6 @@ title: 🖼️ Unreal Engine Renovation for Nation
 date: 2021-11-15T14:47:52+01:00
 description: Découvrez comment HOK, une entreprise d'architecture et d'ingénierie, aide à préserver une icône nationale, le "Canada's Parliament Hill".
 image: images/unreal/banner.jpg
-draft: true
 categories:
 - XR / VR
 tags: 
