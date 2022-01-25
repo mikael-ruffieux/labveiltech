@@ -33,7 +33,7 @@ La création des accessoires a été ma partie préférée. En effet, je trouve 
 
 Si je me suis fortement inspiré des objets présents dans la scène de Grant Abbitt, je n'ai pas suivi le tutoriel pour cette partie, j'ai préféré découvrir par moi-même.
 
-![Accessoires](/images/fisherman/_planks_.png)
+![Accessoires](/images/fisherman/accessoires.png)
 
 ## Le *sculpting*
 
@@ -41,13 +41,11 @@ Pour l'environnement de cette cabane, toujours en suivant le tutoriel, j'ai cré
 
 Pour les algues qui recouvrent le fond marin, c'était relativement simple : j'ai créé une première algue, que j'ai ensuite dupliquée et distribuée à l'aide d'une *weight map* sur mon sable. Le modificateur utilisé permettait de rendre le positionnement, la rotation et l'échelle des algues copiées aléatoires, ce qui permettait un peuplement quasi organique.
 
-![Algue](/images/fisherman/algue.png)
-
 La *weight map* permet de contrôler la distribution des algues sur la surface du sable. Les zones rouges représentent une haute densité de peuplement, tandis que les zones bleues représente une densité basse, voire nulle.
 
-![Weigth Map](/images/fisherman/weigth-map.png)
+![Weigth Map & algue](/images/fisherman/wmap+algue.png)
 
-Pour les poissons qui peuplaient mes eaux, Grant Abbitt proposait un tutoriel pour les créer, mais je trouvais les poissons trop simplistes, et leur design ne me plaisait pas. J'ai donc été cherché une sélection de modèles gratuits sur [Sketchfab](https://sketchfab.com/feed), pour donner un peu plus de qualité et de diversité dans ma faune maritime.
+Pour les poissons qui peuplaient mes eaux, Grant Abbitt proposait un tutoriel pour les créer, mais je trouvais les poissons trop simplistes, et leur design ne me plaisait pas. J'ai donc été chercher une sélection de modèles gratuits sur [Sketchfab](https://sketchfab.com/feed), pour donner un peu plus de qualité et de diversité à ma faune maritime.
 
 ## Les animations
 
@@ -61,7 +59,7 @@ Du plus simple au plus compliqué, j'ai commencé par animer ma caméra. En effe
 
 ### Les *armatures*
 
-Pour le drapeau, j'avais initialement utilisé une méthode découverte dans un autre tutoriel, une technique qui consistait à utiliser l'outil de simulation de tissu intégré à Blender, puis d'ajouter un souffle d'une certaine force dans la direction souhaitée. Si cette technique fonctionnait tout à fait, Grant Abbitt proposait une autre approche : celle de créer un "squelette" pour mon drapeau, et d'animer directement ce dernier, afin de pouvoir facilement boucler l'animation.
+Pour le drapeau, j'avais initialement utilisé une méthode découverte dans un autre tutoriel, une technique qui consistait à utiliser l'outil de **simulation de tissu** intégré à Blender, puis d'ajouter un souffle d'une certaine force dans la direction souhaitée. Si cette technique fonctionnait tout à fait, Grant Abbitt proposait une autre approche : celle de créer un "squelette" pour mon drapeau, et d'animer directement ce dernier, afin de pouvoir facilement boucler l'animation.
 
 Comme je n'avais encore jamais utilisé d'armature, j'ai sauté sur l'occasion pour en apprendre plus.
 
@@ -79,7 +77,17 @@ Finalement, il me suffisait de définir la trajectoire que devait suivre le pois
 
 ## Conclusion
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Fisherman's Shack" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/a0809170db94473b865929c411f2afae/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/fishermans-shack-a0809170db94473b865929c411f2afae?utm_medium=embed&utm_campaign=share-popup&utm_content=a0809170db94473b865929c411f2afae" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Fisherman's Shack </a> by <a href="https://sketchfab.com/rdX-TheArrow?utm_medium=embed&utm_campaign=share-popup&utm_content=a0809170db94473b865929c411f2afae" target="_blank" style="font-weight: bold; color: #1CAAD9;"> rdX-TheArrow </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a0809170db94473b865929c411f2afae" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+Après bien quelques heures de travail, voici le résultat final :
+
+{{< iframe "https://sketchfab.com/models/a0809170db94473b865929c411f2afae/embed" >}}
+
+Pour une raison qui m'échappe, l'eau est affichée opaque sur [SketchFab](https://sketchfab.com). Il est clair que tout n'est pas parfait, mais je suis content d'être arrivé à la fin de cette série de tutoriels, qui m'a beaucoup appris, et qui m'a permis de découvrir **un grand nombre d'outils** dans Blender.
+
+Il est clair que l'utilisation de ce programme doit être un **apprentissage continu**, et s'il est "facile" de copier le travail d'un autre pour apprendre, il est plus difficile de créer ses propres objets 3D, mais ça sera pour la prochaine étape de mon apprentissage.
+
+Un des éléments que j'ai trouvé le plus difficile, c'était la **création de textures** pour mes objets. S'il est facile d'appliquer une couleur de base à un objet, et de rapidement définir sa réflection et sa rugosité, j'ai trouvé assez compliqué de créer des bonnes textures, notamment la texture de l'eau ... 
+
+Mais je pense qu'un des prochaines tutoriels que je suivrai sera sur [Substance Painter](https://www.substance3d.com/), l'outil de *texturing* 3D d'Adobe et qui nous est mis à disposition à travers la licence étudiante.
 
 ## Sources
 
