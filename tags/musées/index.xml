@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Musées on Le blog de Mikael</title>
-    <link>https://labveiltech.redoxdigital.ch/tags/mus%C3%A9es/</link>
-    <description>Recent content in Musées on Le blog de Mikael</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-ch</language>
-    <lastBuildDate>Mon, 15 Nov 2021 14:44:25 +0100</lastBuildDate><atom:link href="https://labveiltech.redoxdigital.ch/tags/mus%C3%A9es/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>📜 Genève 1850</title>
-      <link>https://labveiltech.redoxdigital.ch/posts/geneve-1850/</link>
-      <pubDate>Mon, 15 Nov 2021 14:44:25 +0100</pubDate>
-      
-      <guid>https://labveiltech.redoxdigital.ch/posts/geneve-1850/</guid>
-      <description>Cet article a été ma première découverte d&amp;rsquo;expérience VR dans le domaine culturel, en Suisse.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Musées on Le blog de Mikael</title><link>https://mikael-ruffieux.github.io/labveiltech/tags/mus%C3%A9es/</link><description>Recent content in Musées on Le blog de Mikael</description><generator>Hugo -- gohugo.io</generator><language>fr-ch</language><lastBuildDate>Mon, 15 Nov 2021 14:44:25 +0100</lastBuildDate><atom:link href="https://mikael-ruffieux.github.io/labveiltech/tags/mus%C3%A9es/index.xml" rel="self" type="application/rss+xml"/><item><title>📜 Genève 1850</title><link>https://mikael-ruffieux.github.io/labveiltech/posts/geneve-1850/</link><pubDate>Mon, 15 Nov 2021 14:44:25 +0100</pubDate><guid>https://mikael-ruffieux.github.io/labveiltech/posts/geneve-1850/</guid><description>Cet article a été ma première découverte d&amp;rsquo;expérience VR dans le domaine culturel, en Suisse.
 J&amp;rsquo;ai toujours pensé que la réalité virtuelle pouvait être utilisée pour d&amp;rsquo;autres choses que le jeu vidéo, et je pensais que le domaine culturel était un berceau fertile à ces genres d&amp;rsquo;expériences. Malheureusement, je n&amp;rsquo;avais encore vu aucune application de ce genre en Suisse, ce jusqu&amp;rsquo;à Genève 1850.
-Le défi de cette expérience de la Maison Tavel de Genève était de donner vie à une ville de Genève de 1850, en se basant pour les décors sur une maquette de la ville de cette période.</description>
-    </item>
-    
-  </channel>
-</rss>
+Le défi de cette expérience de la Maison Tavel de Genève était de donner vie à une ville de Genève de 1850, en se basant pour les décors sur une maquette de la ville de cette période.</description></item></channel></rss>
